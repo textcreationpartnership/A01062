@@ -36,7 +36,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-THE MOST PLEASANT Historie of Ornatus and Artesia. Wherein is contained the vniust Raigne of Thaeon 
+
 1. To the right vvorshipfull, Brian Stapleton of Carleton, in the Countie of Yorke Esquire, the heauens graunt health, content, and after life, euerlasting happinesse.
 
 1. TH• EPISTLE to the Reader.
@@ -110,50 +110,45 @@ There are 292 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|8||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|1||
-|32.|__textClass__|1||
-|33.|__title__|5||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|8||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|1||
+|28.|__textClass__|1||
+|29.|__title__|5||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
 
 |No|element name|occ|attributes|
 |---|---|---|---|
-|1.|__body__|6||
+|1.|__body__|5||
 |2.|__closer__|7||
 |3.|__desc__|292||
 |4.|__div__|20| @__type__ (20) : title_page (1), dedication (1), to_the_reader (1), chapter (17)  •  @__n__ (17) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1)|
 |5.|__floatingText__|5| @__type__ (5) : letter (5)|
-|6.|__front__|1||
-|7.|__g__|1019| @__ref__ (1019) : char:EOLhyphen (907), char:cmbAbbrStroke (90), char:punc (20), char:EOLunhyphen (2)|
-|8.|__gap__|292| @__reason__ (292) : illegible (292)  •  @__resp__ (292) : #PDCC (292)  •  @__extent__ (292) : 1 letter (265), 2 letters (18), 1 word (5), 3 letters (4)|
-|9.|__head__|22||
-|10.|__hi__|1683| @__rend__ (36) : sup (36)|
-|11.|__p__|226||
-|12.|__pb__|136| @__facs__ (136) : tcp:14095:1 (2), tcp:14095:2 (2), tcp:14095:3 (2), tcp:14095:4 (2), tcp:14095:5 (2), tcp:14095:6 (2), tcp:14095:7 (2), tcp:14095:8 (2), tcp:14095:9 (2), tcp:14095:10 (2), tcp:14095:11 (2), tcp:14095:12 (2), tcp:14095:13 (2), tcp:14095:14 (2), tcp:14095:15 (2), tcp:14095:16 (2), tcp:14095:17 (2), tcp:14095:18 (2), tcp:14095:19 (2), tcp:14095:20 (2), tcp:14095:21 (2), tcp:14095:22 (2), tcp:14095:23 (2), tcp:14095:24 (2), tcp:14095:25 (2), tcp:14095:26 (2), tcp:14095:27 (2), tcp:14095:28 (2), tcp:14095:29 (2), tcp:14095:30 (2), tcp:14095:31 (2), tcp:14095:32 (2), tcp:14095:33 (2), tcp:14095:34 (2), tcp:14095:35 (2), tcp:14095:36 (2), tcp:14095:37 (2), tcp:14095:38 (2), tcp:14095:39 (2), tcp:14095:40 (2), tcp:14095:41 (2), tcp:14095:42 (2), tcp:14095:43 (2), tcp:14095:44 (2), tcp:14095:45 (2), tcp:14095:46 (2), tcp:14095:47 (2), tcp:14095:48 (2), tcp:14095:49 (2), tcp:14095:50 (2), tcp:14095:51 (2), tcp:14095:52 (2), tcp:14095:53 (2), tcp:14095:54 (2), tcp:14095:55 (2), tcp:14095:56 (2), tcp:14095:57 (2), tcp:14095:58 (2), tcp:14095:59 (2), tcp:14095:60 (2), tcp:14095:61 (2), tcp:14095:62 (2), tcp:14095:63 (2), tcp:14095:64 (2), tcp:14095:65 (2), tcp:14095:66 (2), tcp:14095:67 (2), tcp:14095:68 (2)  •  @__rendition__ (1) : simple:additions (1)|
-|13.|__seg__|19| @__rend__ (19) : decorInit (19)|
-|14.|__signed__|7||
-|15.|__trailer__|1||
+|6.|__g__|1019| @__ref__ (1019) : char:EOLhyphen (907), char:cmbAbbrStroke (90), char:punc (20), char:EOLunhyphen (2)|
+|7.|__gap__|292| @__reason__ (292) : illegible (292)  •  @__resp__ (292) : #PDCC (292)  •  @__extent__ (292) : 1 letter (265), 2 letters (18), 1 word (5), 3 letters (4)|
+|8.|__head__|22||
+|9.|__hi__|1683| @__rend__ (36) : sup (36)|
+|10.|__p__|226||
+|11.|__pb__|136| @__facs__ (136) : tcp:14095:1 (2), tcp:14095:2 (2), tcp:14095:3 (2), tcp:14095:4 (2), tcp:14095:5 (2), tcp:14095:6 (2), tcp:14095:7 (2), tcp:14095:8 (2), tcp:14095:9 (2), tcp:14095:10 (2), tcp:14095:11 (2), tcp:14095:12 (2), tcp:14095:13 (2), tcp:14095:14 (2), tcp:14095:15 (2), tcp:14095:16 (2), tcp:14095:17 (2), tcp:14095:18 (2), tcp:14095:19 (2), tcp:14095:20 (2), tcp:14095:21 (2), tcp:14095:22 (2), tcp:14095:23 (2), tcp:14095:24 (2), tcp:14095:25 (2), tcp:14095:26 (2), tcp:14095:27 (2), tcp:14095:28 (2), tcp:14095:29 (2), tcp:14095:30 (2), tcp:14095:31 (2), tcp:14095:32 (2), tcp:14095:33 (2), tcp:14095:34 (2), tcp:14095:35 (2), tcp:14095:36 (2), tcp:14095:37 (2), tcp:14095:38 (2), tcp:14095:39 (2), tcp:14095:40 (2), tcp:14095:41 (2), tcp:14095:42 (2), tcp:14095:43 (2), tcp:14095:44 (2), tcp:14095:45 (2), tcp:14095:46 (2), tcp:14095:47 (2), tcp:14095:48 (2), tcp:14095:49 (2), tcp:14095:50 (2), tcp:14095:51 (2), tcp:14095:52 (2), tcp:14095:53 (2), tcp:14095:54 (2), tcp:14095:55 (2), tcp:14095:56 (2), tcp:14095:57 (2), tcp:14095:58 (2), tcp:14095:59 (2), tcp:14095:60 (2), tcp:14095:61 (2), tcp:14095:62 (2), tcp:14095:63 (2), tcp:14095:64 (2), tcp:14095:65 (2), tcp:14095:66 (2), tcp:14095:67 (2), tcp:14095:68 (2)  •  @__rendition__ (1) : simple:additions (1)|
+|12.|__seg__|19| @__rend__ (19) : decorInit (19)|
+|13.|__signed__|7||
+|14.|__trailer__|1||
